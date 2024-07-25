@@ -18,3 +18,6 @@ Here are the triggers:
 
 The program implemented will use multiple threads:
 The thread that deals with open, the thread that closes the oven, the thread that rotates the plate, the thread that stops the plate from rotating, the thread that starts up the light, the thread that shuts down the light, the thread that counts down the timer from 60 second to 0 seconds (lowest)
+
+#### Notes
+- Assumption(BR): Oven is open
