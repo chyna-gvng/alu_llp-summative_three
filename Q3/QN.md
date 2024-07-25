@@ -21,3 +21,4 @@ The thread that deals with open, the thread that closes the oven, the thread tha
 
 #### Notes
 - Assumption(BR): Oven is open
+
